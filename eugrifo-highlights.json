@@ -90,5 +90,23 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://lazyrecords.app/global-feed": {
+    "date": "2026-04-28",
+    "title": "lazyrecords",
+    "thumbnail": "",
+    "tags": [
+      "internet"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "9d6ccfca-a9f8-4020-80c1-33fb3e7f2623",
+        "highlight": "Global Feed",
+        "color": "#ffd700",
+        "highlight_note": ""
+      }
+    ]
   }
 }
