@@ -34,5 +34,23 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://cari.institute/aesthetics/renaissance-revival": {
+    "date": "2026-04-28",
+    "title": "CARI | Aesthetic | Renaissance Revival",
+    "thumbnail": "",
+    "tags": [
+      "aesthetic"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "80733626-8984-4f2c-86c7-b2e89f6d9c3e",
+        "highlight": "Renaissance Revival",
+        "color": "#ffb6c1",
+        "highlight_note": "aesthetic"
+      }
+    ]
   }
 }
