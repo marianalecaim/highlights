@@ -71,5 +71,24 @@
         "highlight_note": "cinematografia <3"
       }
     ]
+  },
+  "https://www.waynesword.net/pldraw.htm": {
+    "date": "2026-04-28",
+    "title": "Plant ID Drawings",
+    "thumbnail": "",
+    "tags": [
+      "botanica",
+      "biologia"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "ff9fa913-9538-404d-88c4-a361af791bcc",
+        "highlight": "Botany 110 Drawings Of Unknown Plants",
+        "color": "#ffd700",
+        "highlight_note": ""
+      }
+    ]
   }
 }
