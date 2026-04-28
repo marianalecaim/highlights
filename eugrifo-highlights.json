@@ -52,5 +52,24 @@
         "highlight_note": "aesthetic"
       }
     ]
+  },
+  "https://film-grab.com/2014/02/19/happy-together/": {
+    "date": "2026-04-28",
+    "title": "Happy Together – [FILMGRAB]",
+    "thumbnail": "",
+    "tags": [
+      "cinema",
+      "wong kar-wai"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "8e1967a0-94bb-422e-9982-6341806df988",
+        "highlight": "Happy Together",
+        "color": "#ffd700",
+        "highlight_note": "cinematografia <3"
+      }
+    ]
   }
 }
