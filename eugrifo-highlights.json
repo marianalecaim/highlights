@@ -145,5 +145,23 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://lablab.com.br/tipos-de-filmes/": {
+    "date": "2026-04-29",
+    "title": "Entendendo os Tipos de Filmes Fotográficos e Suas Particularidades – Lab:Lab",
+    "thumbnail": "",
+    "tags": [
+      "fotografia"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "168af863-8998-4e23-ab79-2eabfb7900b9",
+        "highlight": "Entendendo os Tipos de Filmes Fotográficos e Suas Particularidades",
+        "color": "#ffd700",
+        "highlight_note": "https://lablab.com.br/tipos-de-filmes/"
+      }
+    ]
   }
 }
