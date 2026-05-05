@@ -163,5 +163,23 @@
         "highlight_note": "https://lablab.com.br/tipos-de-filmes/"
       }
     ]
+  },
+  "https://abethlee.com/2020/12/10/como-fiz-caixas-para-luz-uv/": {
+    "date": "2026-05-05",
+    "title": "Como fiz caixas para luz uv | Elizabeth Lee",
+    "thumbnail": "",
+    "tags": [
+      "cianotipia"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "9ccf3dba-9178-4464-8875-373480768d7d",
+        "highlight": "O que acho interessante numa caixa de luz:\n\né melhor quando o reator fica num compartimento separado das lâmpadas. Muitas vezes não dá pra separar, mas seria o ideal.\nA altura mínima da lâmpada para onde ficará apoiada a imagem pode ser a partir de 17cm com espaçamento de 7 cm para cada lâmpada. Mas se puder fazer numa altura maior acho melhor.\nVentoinha ajuda muito mas se não tiver funciona. Só que quando o interior da caixa fica muito quente, tende a afetar o tempo de exposição.",
+        "color": "#ffd700",
+        "highlight_note": ""
+      }
+    ]
   }
 }
